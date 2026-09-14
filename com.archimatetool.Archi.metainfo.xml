@@ -50,6 +50,8 @@
   <content_rating type="oars-1.1" />
   
   <releases>
+    <release version="5.10.0" date="2026-10-03"/>
+    <release version="5.9.0" date="2026-04-11"/>
     <release version="5.8.0" date="2026-02-18">
       <description>
         <p>Latest release with ArchiMate 3.2 support</p>
